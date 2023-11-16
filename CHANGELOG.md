@@ -1,4 +1,4 @@
-## WLED changelogh
+## WLED changelo
 
 #### Build 2310010, build 2310130
 -   Release of WLED version 0.14.0 "Hoshi"
